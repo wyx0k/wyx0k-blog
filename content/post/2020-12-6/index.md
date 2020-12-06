@@ -1,12 +1,11 @@
 ---
 title: 第一篇博客
-description: 测试
+description: 你好呀
 date: 2020-12-06
-slug: test-chinese
+slug: first-post
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
-    - 测试
+    - 日常
 ---
 
 ## 正文测试
